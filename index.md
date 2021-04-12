@@ -1,5 +1,5 @@
 
-If you are wary of streaming illegal streaming sites, if you like to take advantange of obvious loopholes by VPNs, this works fine for me.
+If you are wary of illegal streaming sites, if you like to take advantange of obvious loopholes by VPNs, this works fine for me.
 
 
 1. Pay for Hotstar Premium. It costs me Rs299 every IPL season.
