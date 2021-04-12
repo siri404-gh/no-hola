@@ -3,8 +3,7 @@
 
 The best and seamless way to watch IPL in Germany is to use YuppTV. I think the monthly subscription costs about 20€.
 
-
-But, if you dont want to do that, and if you are wary of other illegal streaming sites, and if you like to take advantange of obvious loopholes by VPNs, this works fine for me. I have tested this and works for me just fine.
+But, if you dont want to do that, and if you are wary of other illegal streaming sites, and if you like to take advantange of obvious loopholes by VPNs, try this. I have tested this and works for me just fine.
 
 ## Steps
 
@@ -14,7 +13,7 @@ But, if you dont want to do that, and if you are wary of other illegal streaming
 ```js
 javascript:(function()%7Bdocument.getElementById('_hola_popup_iframe__').remove()%3Bdocument.querySelector('body%20%3E%20div%3Anth-child(9)').hidden%20%3D%20true%7D)()
 ```
-4. Just click on this bookmark everytime you see the hola timer popup.
+4. Just click on this bookmark everytime you see the hola time out popup.
 
 **Note**: There are known vulnerabilities of using Hola VPN free service. But I havent had any issues so far. Use it at your own risk.
 
