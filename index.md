@@ -8,7 +8,7 @@ But, if you dont want to do that, and if you are wary of other illegal streaming
 ## Steps
 
 1. Pay for Hotstar Premium. It costs me Rs.299 every IPL season.
-2. Install Hola VPN browser extension.
+2. Install Hola VPN browser extension and start Hostar with India.
 3. Create a bookmark with this as url:
 ```js
 javascript:(function()%7Bdocument.getElementById('_hola_popup_iframe__').remove()%3Bdocument.querySelector('body%20%3E%20div%3Anth-child(9)').hidden%20%3D%20true%7D)()
