@@ -1,5 +1,5 @@
 
-# How to watch IPL in Germany
+# How to watch IPL in Germany (or other countries)
 
 The best and seamless way to watch IPL in Germany is to use YuppTV. I think the monthly subscription costs about 20€.
 
