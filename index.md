@@ -11,3 +11,33 @@ javascript:(function()%7Bdocument.getElementById('_hola_popup_iframe__').remove(
 4. Just click on this bookmark when you see the hola timer popup.
 
 **Note**: There are known vulnerabilities of using Hola VPN free service. But I havent had any issues so far. Use it at your own risk.
+
+<p align='center'>
+  <a href="https://www.linkedin.com/in/sreeramofficial/">
+    <img alt="Sreeram Padmanabhan" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+
+  <a href="https://instagram.com/sreeramofficial">
+    <img alt="Sreeram Instageam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </a>
+
+  <a href="https://leetcode.com/sreeramofficial">
+    <img alt="Sreeram Instageam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/5228328/sreeram-padmanabhan">
+    <img alt="Sreeram Instageam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+  </a>
+
+  <a href="https://github.com/sreeramofficial">
+    <img alt="Sreeram Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+
+  <a href="https://twitter.com/sreeramofficial">
+    <img alt="Sreeram Instageam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a>
+
+  <a href="https://www.quora.com/profile/Sreeram-Padmanabhan-1">
+    <img alt="Sreeram Instageam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quora.svg" />
+  </a>
+</p>
