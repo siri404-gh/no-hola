@@ -1,8 +1,10 @@
 <script>
-  window.addToBookmar = browser.bookmarks.create({
-  title: "bookmarks.create() on MDN",
-  url: "javascript:(function()%7Bdocument.getElementById('_hola_popup_iframe__').remove()%3Bdocument.querySelector('body%20%3E%20div%3Anth-child(9)').hidden%20%3D%20true%7D)()"
-});
+  function addToBookmark() {
+    browser.bookmarks.create({
+      title: "bookmarks.create() on MDN",
+      url: "javascript:(function()%7Bdocument.getElementById('_hola_popup_iframe__').remove()%3Bdocument.querySelector('body%20%3E%20div%3Anth-child(9)').hidden%20%3D%20true%7D)()"
+    });
+  }
 </script>
 
-<button id='bookmark' onclick={addToBookmark}>Add to Bookmark</button>
+<button id='bookmark' onclick='addToBookmark()'>Add to Bookmark</button>
